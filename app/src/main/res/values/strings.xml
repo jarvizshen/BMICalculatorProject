@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_title_text">BMI 计算器</string>
+    <string name="sex_text">性别：</string>
+    <string name="male_text">男</string>
+    <string name="female_text">女</string>
+    <string name="button_text">Button</string>
+    <string name="height_hint">身高（m）</string>
+    <string name="weight_hint">体重（kg）</string>
+    <string name="BMI_text">BMI：</string>
+    <string name="cal_text">计算器</string>
+</resources>
